@@ -29,3 +29,9 @@ Claude: Just hit me up on Telegram, I'll sort it out.
 Him: I don't have Telegram...
 
 Claude: ... This does not bode well.
+
+### Garnet — Autonomous Marketing AI Advisor
+- **GitHub:** [mark02252/garnet-ai](https://github.com/mark02252/garnet-ai)
+- **Description:** 24/7 autonomous marketing advisor with 5 AI specialist agents. Built entirely with Claude Code by a non-coder. Features Agentic Tool Harness, A2A cross-queries, and domain portability.
+- **License:** MIT
+
